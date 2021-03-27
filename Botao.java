@@ -12,7 +12,7 @@ public class Botao extends JFrame{
   super("Criando botões");
   setLayout( new FlowLayout() );
 
-  ok = new JButton("Start");
+  ok = new JButton("INICIAR");
   add(ok);
  }
 
