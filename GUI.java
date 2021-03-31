@@ -1,5 +1,5 @@
 
-package botao;
+package Pong;
 
 import javax.swing.JFrame;
 
